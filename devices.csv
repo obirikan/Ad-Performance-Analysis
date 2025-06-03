@@ -1,0 +1,23 @@
+device_id,device_type,brand
+M001,Mobile,Apple
+M002,Mobile,Samsung
+M003,Mobile,Google
+M004,Mobile,Huawei
+M005,Mobile,Xiaomi
+M006,Mobile,vivo
+P001,PC,Apple
+P002,PC,Dell
+P003,PC,HP
+P004,PC,ASUS
+P005,PC,Lenovo
+P006,PC,Other
+S001,Smartwatch,Apple
+S002,Smartwatch,Samsung
+S003,Smartwatch,FitBit
+ST01,Streaming,Roku
+ST02,Streaming,Apple TV
+ST03,Streaming,Gaming Console
+T001,Tablet,Apple
+T002,Tablet,Samsung
+T003,Tablet,Amazon
+T004,Tablet,Microsoft
