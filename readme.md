@@ -47,12 +47,3 @@ The analysis is divided into five major task groups:
    ```
 2. Place the `users.csv`, `advertisements.csv`, and `devices.csv` files in the working directory.
 3. Run the Python script or load the notebook to perform the analysis.
-
-## Author
-
-* Your Name
-
-## License
-
-This project is licensed under the MIT License.
-# Ad-Performance-Analysis
